@@ -1,11 +1,11 @@
 06/23/2022 01:18:10 453
 -------------------------------------------
-Qtd total de alocacoes: 22 (10% de 225)
-Qtd X: 1
-Qtd Y: 0
-Qtd Z: 21
+Total number of allocations: 22 (10% of 225)
+X: 1
+Y: 0
+Z: 21
 -------------------------------------------
-A alocação ótima para os sensores no espaço 15x15 é:
+Optimal allocation for sensor nodes in the 15x15 space is:
 [ - - - - - - - - - - - - - - - ]
 [ - - - - - - - - - - - - - - - ]
 [ - - - - - - - - - - - - - - - ]
@@ -23,12 +23,12 @@ A alocação ótima para os sensores no espaço 15x15 é:
 [ - - - - - - - - - - - X - - - ]
 -------------------------------------------
 Gap = 0%
-FO = 1.136363636
-Cobertura = -0.909090909
-Energia = 1.136363636
+OF = 1.136363636
+C = -0.909090909
+E = 1.136363636
 Nor = 42
 NorYX = 0
 NorZX = 21
 NorZY = 21
-Tempo total para solucionar ~= 0.024 s
+Total solving time ~= 0.024 s
 -------------------------------------------

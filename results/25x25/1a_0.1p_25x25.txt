@@ -1,11 +1,11 @@
 06/23/2022 01:18:20 534
 -------------------------------------------
-Qtd total de alocacoes: 62 (10% de 625)
-Qtd X: 1
-Qtd Y: 0
-Qtd Z: 61
+Total number of allocations: 62 (10% of 625)
+X: 1
+Y: 0
+Z: 61
 -------------------------------------------
-A alocação ótima para os sensores no espaço 25x25 é:
+Optimal allocation for sensor nodes in the 25x25 space is:
 [ X Z - Z - - - - - - - - - - - - - - - - - - - Z Z ]
 [ Z Z Z Z - - Z - - - - - - - - - - - - - - - - - - ]
 [ Z Z - Z - Z - - - - - - - - - - - - - - - - - - Z ]
@@ -33,12 +33,12 @@ A alocação ótima para os sensores no espaço 25x25 é:
 [ - - - - - - - - - - - - - - - - - - - - - - - - - ]
 -------------------------------------------
 Gap = 0%
-FO = 1.048387097
-Cobertura = -0.935483871
-Energia = 1.048387097
+OF = 1.048387097
+C = -0.935483871
+E = 1.048387097
 Nor = 120
 NorYX = 0
 NorZX = 59
 NorZY = 61
-Tempo total para solucionar ~= 0.034 s
+Total solving time ~= 0.034 s
 -------------------------------------------

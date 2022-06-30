@@ -1,11 +1,11 @@
 06/22/2022 17:00:20 446
 -------------------------------------------
-Qtd total de alocacoes: 160 (40% de 400)
-Qtd X: 25
-Qtd Y: 67
-Qtd Z: 68
+Total number of allocations: 160 (40% of 400)
+X: 25
+Y: 67
+Z: 68
 -------------------------------------------
-A alocação ótima para os sensores no espaço 20x20 é:
+Optimal allocation for sensor nodes in the 20x20 space is:
 [ Y Z - Z X Z - - Y - - - - - - Y - X Z Y ]
 [ Z X Z Y - Y Z - Z X - - - - - - - Z - - ]
 [ Y Z Y - Y - - - - - Y - - - - Y - - Y - ]
@@ -28,12 +28,12 @@ A alocação ótima para os sensores no espaço 20x20 é:
 [ - - Y - Y Z X - - - - - Y - - - Y - - Y ]
 -------------------------------------------
 Gap = 0.007642997%
-FO = 0.528125
-Cobertura = 0.83125
-Energia = 1.8875
+OF = 0.528125
+C = 0.83125
+E = 1.8875
 Nor = 27
 NorYX = 5
 NorZX = 17
 NorZY = 5
-Tempo total para solucionar ~= 5.369 s
+Total solving time ~= 5.369 s
 -------------------------------------------

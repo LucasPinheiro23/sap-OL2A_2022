@@ -1,11 +1,11 @@
 06/23/2022 01:18:06 693
 -------------------------------------------
-Qtd total de alocacoes: 20 (20% de 100)
-Qtd X: 1
-Qtd Y: 0
-Qtd Z: 19
+Total number os allocations: 20 (20% of 100)
+X: 1
+Y: 0
+Z: 19
 -------------------------------------------
-A alocação ótima para os sensores no espaço 10x10 é:
+Optimal allocation for sensor nodes in the 10x10 space is:
 [ - - - - - - Z - - - ]
 [ - - - - - - - - - - ]
 [ Z Z - Z - - - - - - ]
@@ -18,12 +18,12 @@ A alocação ótima para os sensores no espaço 10x10 é:
 [ - - - - - - - - - - ]
 -------------------------------------------
 Gap = 0%
-FO = 1.15
-Cobertura = -0.9
-Energia = 1.15
+OF = 1.15
+C = -0.9
+E = 1.15
 Nor = 38
 NorYX = 0
 NorZX = 19
 NorZY = 19
-Tempo total para solucionar ~= 0.022 s
+Total solving time ~= 0.022 s
 -------------------------------------------
