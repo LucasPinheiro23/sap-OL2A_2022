@@ -1,0 +1,122 @@
+
+<<< setup
+
+
+<<< generate
+
+Version identifier: 22.1.0.0 | 2022-03-09 | 1a383f8ce
+CPXPARAM_TimeLimit                               1200
+Tried aggregator 2 times.
+MIP Presolve eliminated 2343 rows and 905 columns.
+Aggregator did 2719 substitutions.
+Reduced MIP has 1565 rows, 3251 columns, and 6095 nonzeros.
+Reduced MIP has 1813 binaries, 0 generals, 0 SOSs, and 1438 indicators.
+Presolve time = 0,03 sec. (25,50 ticks)
+Found incumbent of value 0,250000 after 0,05 sec. (30,83 ticks)
+Probing fixed 0 vars, tightened 1551 bounds.
+Probing time = 0,00 sec. (1,73 ticks)
+Tried aggregator 2 times.
+Detecting symmetries...
+MIP Presolve eliminated 72 rows and 216 columns.
+Aggregator did 72 substitutions.
+Reduced MIP has 2705 rows, 2963 columns, and 8303 nonzeros.
+Reduced MIP has 1669 binaries, 0 generals, 0 SOSs, and 10 indicators.
+Presolve time = 0,01 sec. (7,90 ticks)
+Probing fixed 0 vars, tightened 58 bounds.
+Probing time = 0,00 sec. (1,22 ticks)
+Clique table members: 834.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0,06 sec. (53,97 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0,2500       -0,7500           400,00%
+      0     0       -0,2509   370        0,2500       -0,2509     1198  200,36%
+*     0+    0                           -0,0040       -0,2509              --- 
+      0     0       -0,2400   273       -0,0040      Cuts: 83     1442     --- 
+      0     0       -0,2382   298       -0,0040      Cuts: 38     1543     --- 
+      0     0       -0,2381   307       -0,0040      Cuts: 20     1597     --- 
+      0     0       -0,2381   304       -0,0040      Cuts: 19     1616     --- 
+*     0+    0                           -0,1580       -0,2381            50,72%
+      0     0       -0,2381   263       -0,1580       Cuts: 8     1624   50,72%
+      0     0       -0,2381   257       -0,1580      Cuts: 19     1646   50,72%
+      0     0       -0,2381   259       -0,1580    MIRcuts: 3     1657   50,72%
+*     0+    0                           -0,2160       -0,2381            10,25%
+*     0+    0                           -0,2200       -0,2381             8,24%
+      0     0  -1,00000e+75     0       -0,2200       -0,2381     1657    8,24%
+      0     2       -0,2381   256       -0,2200       -0,2374     1657    7,90%
+Elapsed time = 0,97 sec. (467,10 ticks, tree = 0,02 MB, solutions = 5)
+*   193+  134                           -0,2220       -0,2374             6,93%
+*   239+  151                           -0,2240       -0,2374             5,98%
+    327   194       -0,2324   192       -0,2240       -0,2356    17393    5,17%
+    711   396       -0,2320   287       -0,2240       -0,2346    31363    4,71%
+   1166   690       -0,2293   223       -0,2240       -0,2334    51929    4,19%
+   1649  1004        cutoff             -0,2240       -0,2328    73643    3,95%
+   2130  1267       -0,2242   145       -0,2240       -0,2324    92238    3,76%
+   2629  1577       -0,2250    60       -0,2240       -0,2320   112585    3,59%
+   3104  1845        cutoff             -0,2240       -0,2317   132172    3,43%
+
+Performing restart 1
+
+Repeating presolve.
+Tried aggregator 2 times.
+MIP Presolve eliminated 60 rows and 60 columns.
+MIP Presolve modified 534 coefficients.
+Aggregator did 632 substitutions.
+Reduced MIP has 2013 rows, 2271 columns, and 6743 nonzeros.
+Reduced MIP has 1007 binaries, 0 generals, 0 SOSs, and 10 indicators.
+Presolve time = 0,00 sec. (9,15 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 2013 rows, 2271 columns, and 6743 nonzeros.
+Reduced MIP has 1007 binaries, 0 generals, 0 SOSs, and 10 indicators.
+Presolve time = 0,00 sec. (4,39 ticks)
+Represolve time = 0,05 sec. (25,80 ticks)
+   3398     0       -0,2351   277       -0,2240      Cuts: 50   148181    3,33%
+   3398     0       -0,2337   308       -0,2240      Cuts: 78   148335    3,33%
+   3398     0       -0,2328   302       -0,2240      Cuts: 56   148400    3,33%
+   3398     0       -0,2304   283       -0,2240      Cuts: 84   148615    2,86%
+*  3398+    0                           -0,2260       -0,2304             1,95%
+   3398     0       -0,2302   289       -0,2260      Cuts: 80   148736    1,86%
+   3398     0       -0,2299   298       -0,2260      Cuts: 86   148833    1,71%
+   3398     0       -0,2295   282       -0,2260      Cuts: 99   148990    1,57%
+   3398     0       -0,2286   273       -0,2260      Cuts: 75   149181    1,13%
+   3398     0       -0,2284   290       -0,2260      Cuts: 98   149347    1,06%
+   3398     0       -0,2282   271       -0,2260      Cuts: 66   149463    0,98%
+   3398     0       -0,2272   259       -0,2260      Cuts: 67   149576    0,53%
+   3398     0       -0,2272   251       -0,2260      Cuts: 28   149668    0,51%
+   3398     0       -0,2271   239       -0,2260      Cuts: 26   149705    0,51%
+   3398     0       -0,2271   197       -0,2260     Cuts: 114   149735    0,51%
+   3398     0       -0,2271   199       -0,2260      Cuts: 16   149744    0,51%
+   3398     0       -0,2271   200       -0,2260       Cuts: 7   149746    0,51%
+   3398     0       -0,2271   197       -0,2260     Cuts: 125   149784    0,51%
+   3398     1       -0,2271   151       -0,2260       -0,2271   149838    0,51%
+
+Implied bound cuts applied:  1
+Flow cuts applied:  1
+Mixed integer rounding cuts applied:  44
+Zero-half cuts applied:  15
+Lift and project cuts applied:  34
+Gomory fractional cuts applied:  23
+
+Root node processing (before b&c):
+  Real time             =    0,95 sec. (465,93 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    7,63 sec. (3884,81 ticks)
+  Sync time (average)   =    0,71 sec.
+  Wait time (average)   =    0,02 sec.
+                          ------------
+Total (root+branch&cut) =    8,58 sec. (4350,74 ticks)
+
+<<< solve
+
+
+OBJECTIVE: -0.226
+
+<<< post process
+
+
+<<< done
+

@@ -1,0 +1,39 @@
+06/22/2022 17:21:01 814
+-------------------------------------------
+Qtd total de alocacoes: 240 (60% de 400)
+Qtd X: 34
+Qtd Y: 88
+Qtd Z: 118
+-------------------------------------------
+A alocação ótima para os sensores no espaço 20x20 é:
+[ - Y - Y - Y Z X Y - - Y - - Z - Y - - - ]
+[ Y Z - Z - - - - - - - - - Z Y Z - X - Y ]
+[ Z X Z X Z - - Y Y Z - Z - - Z X - Z - - ]
+[ Y Z Y Z Y Z - Z - X Z Y - Y - Z - Y Z Z ]
+[ Z X Z Y Z X Z Y - Z - Z - - - Y Z - - - ]
+[ Y Z Y Z - Y Z - - - Z - - - Z Y - - Y Z ]
+[ Y Z Z X Z Z X Z Y - Y Z Y Z X Z Y - Z - ]
+[ Z X Z Z Y Y - - - - Z - - - Z - Z - X - ]
+[ - - Y - - Z X Z - Z X - Y Z Y - - - - Y ]
+[ - Y - - Y Z Z Y Z Y Z - - - Z - Z - - - ]
+[ Y - Y - Z X Z Z X Z Z Y Z Y - Z Y - - Y ]
+[ - Y Z X Z Z Y - Y Z X - X - - - Z X Z - ]
+[ X Z Y Z Y - Z Y - Y Z - Z Y Z - - Z Y - ]
+[ Z - Z - Y Z X - - Z - - Y - X - Y - Z - ]
+[ Y Z X Z Y Z Z Y - X - Y - - - Y - - X Z ]
+[ Y Z Z Y Z X Z - - Z - - Y - - - - - Z Y ]
+[ Z X Z Y Y Z Y Z Y Y - Y Z - - - - - Y - ]
+[ Y Z - Y Z Y Z X Z - Y - X - Y - - - Z - ]
+[ Z X Z Z X Z Y Z - Y Z X Z Y - - Z - - Z ]
+[ Y Z Y Z Z Y - Y Z - Y - - - - - - - - Y ]
+-------------------------------------------
+Gap = 0.668447423%
+FO = 0.454166667
+Cobertura = 0.883333333
+Energia = 1.791666667
+Nor = 28
+NorYX = 4
+NorZX = 21
+NorZY = 3
+Tempo total para solucionar ~= 1200.39 s
+-------------------------------------------

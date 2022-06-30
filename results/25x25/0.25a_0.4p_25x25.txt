@@ -1,0 +1,44 @@
+06/22/2022 20:10:05 035
+-------------------------------------------
+Qtd total de alocacoes: 250 (40% de 625)
+Qtd X: 48
+Qtd Y: 105
+Qtd Z: 97
+-------------------------------------------
+A alocação ótima para os sensores no espaço 25x25 é:
+[ Z Y Z X - Y Y Z - - - - - - - - - - - - - - - - Y ]
+[ X Z - Z Y - Z X Z Y Z - - - - - - - - - - - Y Z X ]
+[ Z Y Z X Z Y Z - Y - X - - - - - - - - - - - Z - Z ]
+[ Y Z Y Z Y Z X Z - - Z Y - - - - - - - - - - X - Y ]
+[ Z X Z - Y - Z Y - - Y - - - - - - - - - X - - Y Y ]
+[ Y Z Z X Z - Y - X Z - - - Y - - - - - - - - - - Z ]
+[ - Z Y Z Z Y - Y - Y - Y X - - Y - X Y - - - - Z X ]
+[ Z X Z Z X Z Z Y Y - - - - Y - - Y - - - - - - Y Z ]
+[ Y Z Z Y Z Z X Z - - X - Y - - - - - - - - - Y - Y ]
+[ Y Z X Z Z Y Z Y - Y - - - - - - - - - - - - - - - ]
+[ Z Y Z Z X Z Y - Z Y - - - - - - - Y - - Y - X Z Y ]
+[ X Z Z Y Z - - Z X Z - - - - - - - - - - - - Z Y - ]
+[ Z Z X Z Y Z Y Y Z Y - Y X - Y - - X - - - - - X Z ]
+[ Y Y Z Y Z X - - Y - - - Y - - - - - - - - Z X Z Y ]
+[ Z X Z Y Z Z Y Y Z - Y Z X - Y - - Y - - - Y Z - - ]
+[ Y Z Y Z X - - Z X Z - Y Z - - - - - - - - - - - - ]
+[ - Z Y Z Z Y - - Z Y Y - - - - - - - - - - - Y - X ]
+[ Z X - X Z Y Z Y - - - - - - - - - - - - - - - - - ]
+[ Y - Y Z - Z X - Y - X - - - - - - - - - - - - - - ]
+[ Y Y - Y - - Z Y - Y - - - - - - - - - - - - - - - ]
+[ Z - Y - - - - Z Y - Y - - - - - - - - - - - - - X ]
+[ X - Z Y - - - X Z Y - - X Y - X Y - - - - - - - - ]
+[ Z - X - Y - - - Y - Y - - - - - - - X - - - - - - ]
+[ Y - - - - - - Y - - Z - - - - Y - - - - - - - - - ]
+[ - - Y - - - - - Y - X - Y - - - X - - - - - - - - ]
+-------------------------------------------
+Gap = 0.555800573%
+FO = -0.251
+Cobertura = 1
+Energia = 1.996
+Nor = 0
+NorYX = 0
+NorZX = 0
+NorZY = 0
+Tempo total para solucionar ~= 1200.54 s
+-------------------------------------------

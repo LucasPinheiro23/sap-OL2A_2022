@@ -1,0 +1,34 @@
+06/22/2022 14:36:09 672
+-------------------------------------------
+Qtd total de alocacoes: 202 (90% de 225)
+Qtd X: 30
+Qtd Y: 56
+Qtd Z: 116
+-------------------------------------------
+A alocação ótima para os sensores no espaço 15x15 é:
+[ Y Z Y Y Z Y Z X Z - Z Y Z Z Y ]
+[ Z X Z Z X Z Y Z Y Z X Z Z X Z ]
+[ Y Z Z Y Z - - Y Z Y Z Z Y Z - ]
+[ Z Z X Z Y Z - Z X Z Z X Z Z Y ]
+[ Z Y Z Y Z X Z Y Z Y Y Z Z X Z ]
+[ X Z Y Z Y Z Z Y - Z - Y Y Z Y ]
+[ Z Y Z X Z Z X Z Z X - Z Y Z - ]
+[ Z Y Y Z - Y Z Z Y Z Z X Z X Z ]
+[ X Z - Z Y Y Z - Y Z Y Z - Z Y ]
+[ Z Y Z X Z Z X Z Z X Z - Z X Z ]
+[ Z Y Z Z Y Z Z Y Z Z Y Z Y Z Z ]
+[ Y Z X Z Z X Z Z X Z Z X Z Z Y ]
+[ Y Z Z Y Z Z Y Z Z Y Z - Z X Z ]
+[ - X Z Z X Z Z X Z Z X Z Y Z - ]
+[ Y - Y - Z Y Z Z Y - - Y - - Y ]
+-------------------------------------------
+Gap = 1.982198045%
+FO = 0.378712871
+Cobertura = 0.965346535
+Energia = 1.722772277
+Nor = 7
+NorYX = 1
+NorZX = 6
+NorZY = 0
+Tempo total para solucionar ~= 1200.279 s
+-------------------------------------------

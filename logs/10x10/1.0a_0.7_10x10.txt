@@ -1,0 +1,52 @@
+
+<<< setup
+
+
+<<< generate
+
+Version identifier: 22.1.0.0 | 2022-03-09 | 1a383f8ce
+Found incumbent of value 2,028571 after 0,00 sec. (0,02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 0 rows and 70 columns.
+Reduced MIP has 72 rows, 140 columns, and 350 nonzeros.
+Reduced MIP has 140 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0,00 sec. (0,56 ticks)
+Probing time = 0,00 sec. (0,04 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+Reduced MIP has 72 rows, 140 columns, and 350 nonzeros.
+Reduced MIP has 140 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0,00 sec. (0,51 ticks)
+Probing time = 0,00 sec. (0,04 ticks)
+Clique table members: 70.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0,00 sec. (0,10 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            2,0286        0,0000           100,00%
+*     0     0      integral     0        1,0429        1,0429        2    0,00%
+Elapsed time = 0,02 sec. (1,46 ticks, tree = 0,00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0,02 sec. (1,46 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0,00 sec. (0,00 ticks)
+  Sync time (average)   =    0,00 sec.
+  Wait time (average)   =    0,00 sec.
+                          ------------
+Total (root+branch&cut) =    0,02 sec. (1,46 ticks)
+
+<<< solve
+
+
+OBJECTIVE: 1.042857
+
+<<< post process
+
+
+<<< done
+

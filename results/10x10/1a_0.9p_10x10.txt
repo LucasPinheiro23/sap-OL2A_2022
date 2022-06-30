@@ -1,0 +1,29 @@
+06/23/2022 01:18:10 010
+-------------------------------------------
+Qtd total de alocacoes: 90 (90% de 100)
+Qtd X: 1
+Qtd Y: 0
+Qtd Z: 89
+-------------------------------------------
+A alocação ótima para os sensores no espaço 10x10 é:
+[ X Z Z - Z Z Z Z Z Z ]
+[ Z Z - Z - Z Z Z Z Z ]
+[ Z Z Z Z Z - Z Z Z Z ]
+[ Z Z Z Z Z Z Z Z Z Z ]
+[ Z Z Z Z Z Z Z Z Z Z ]
+[ Z Z Z - Z Z Z Z Z Z ]
+[ Z Z Z Z Z Z Z Z Z - ]
+[ Z Z Z Z - - Z Z Z Z ]
+[ Z Z Z Z - Z Z Z Z Z ]
+[ Z - Z Z Z Z Z Z Z Z ]
+-------------------------------------------
+Gap = 0%
+FO = 1.033333333
+Cobertura = -0.955555556
+Energia = 1.033333333
+Nor = 176
+NorYX = 0
+NorZX = 87
+NorZY = 89
+Tempo total para solucionar ~= 0.054 s
+-------------------------------------------
